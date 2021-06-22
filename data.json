@@ -13,6 +13,11 @@
     "id": 3,
     "title": "Dart Book",
     "link": "https://spec.dart.dev/DartLangSpecDraft.pdf"
+  },
+  {
+    "id": 3,
+    "title": "SwiftUI Design Book",
+    "link": "https://spec.dart.dev/DartLangSpecDraft.pdf"
   }
 ]
 
